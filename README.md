@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rutuja Sahare<</h1>
+<h1 align="center">Hi 👋, I'm Rutuja Sahare</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
 <img  align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzM4ZG1xc3o3bXc5MGJ4bGpkejRqeGhvNDl5OXJldHYxZGkwM2R0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.webp"/>
