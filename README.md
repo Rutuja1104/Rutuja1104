@@ -19,3 +19,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rutuja1104&show_icons=true&locale=en" alt="rutuja1104" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rutuja1104&" alt="rutuja1104" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rutuja1104&label=Profile%20views&color=0e75b6&style=flat" alt="rutuja1104" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rutuja1104" alt="rutuja1104" /></a> </p>
+
